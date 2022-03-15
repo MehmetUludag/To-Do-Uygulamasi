@@ -1,0 +1,15 @@
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\bin\Debug\net6.0\To Do Uygulaması.exe
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\bin\Debug\net6.0\To Do Uygulaması.deps.json
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\bin\Debug\net6.0\To Do Uygulaması.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\bin\Debug\net6.0\To Do Uygulaması.dll
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\bin\Debug\net6.0\ref\To Do Uygulaması.dll
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\bin\Debug\net6.0\To Do Uygulaması.pdb
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.dll
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\ref\To Do Uygulaması.dll
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.pdb
+C:\Users\Mehmet\Desktop\Projects\ToDoUygulaması\obj\Debug\net6.0\To Do Uygulaması.genruntimeconfig.cache
